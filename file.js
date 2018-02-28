@@ -1,1 +1,1 @@
-Improve image loading performance
+Improve logging for debugging
