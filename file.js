@@ -1,1 +1,1 @@
-Add missing translations
+Fix typo in README
