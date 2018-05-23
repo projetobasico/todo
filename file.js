@@ -1,1 +1,1 @@
-Add missing translations
+Fix bug in checkout flow
