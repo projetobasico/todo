@@ -1,1 +1,1 @@
-Enhance form validation
+Improve image loading performance
