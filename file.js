@@ -1,1 +1,1 @@
-Improve error handling in API
+Refactor user authentication logic
