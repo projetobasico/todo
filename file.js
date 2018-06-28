@@ -1,1 +1,1 @@
-Update UI for better mobile support
+Optimize database queries
