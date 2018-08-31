@@ -1,1 +1,1 @@
-Fix bug in checkout flow
+Fix typo in README
