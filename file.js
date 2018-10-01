@@ -1,1 +1,1 @@
-Fix typo in README
+Fix CSS layout issue
