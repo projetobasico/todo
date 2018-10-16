@@ -1,1 +1,1 @@
-Optimize database queries
+Fix bug in checkout flow
