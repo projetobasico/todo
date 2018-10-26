@@ -1,1 +1,1 @@
-Fix bug in checkout flow
+Fix CSS layout issue
