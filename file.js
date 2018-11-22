@@ -1,1 +1,1 @@
-Implement search functionality
+Improve logging for debugging
