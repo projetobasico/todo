@@ -1,1 +1,1 @@
-Update UI for better mobile support
+Enhance form validation
