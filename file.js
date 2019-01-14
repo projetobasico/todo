@@ -1,1 +1,1 @@
-Update documentation
+Improve error handling in API
