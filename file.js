@@ -1,1 +1,1 @@
-Implement search functionality
+Update documentation
