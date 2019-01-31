@@ -1,1 +1,1 @@
-Update UI for better mobile support
+Fix CSS layout issue
