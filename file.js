@@ -1,1 +1,1 @@
-Enhance form validation
+Add missing translations
