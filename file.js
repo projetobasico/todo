@@ -1,1 +1,1 @@
-Add unit tests for payment service
+Fix typo in README
