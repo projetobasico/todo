@@ -1,1 +1,1 @@
-Implement search functionality
+Improve error handling in API
