@@ -1,1 +1,1 @@
-Optimize database queries
+Add missing translations
