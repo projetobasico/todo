@@ -1,1 +1,1 @@
-Add missing translations
+Refactor user authentication logic
