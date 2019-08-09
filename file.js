@@ -1,1 +1,1 @@
-Implement search functionality
+Fix CSS layout issue
