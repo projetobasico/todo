@@ -1,1 +1,1 @@
-Improve image loading performance
+Fix bug in checkout flow
