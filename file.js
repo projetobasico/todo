@@ -1,1 +1,1 @@
-Update dependencies
+Fix CSS layout issue
