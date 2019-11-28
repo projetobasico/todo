@@ -1,1 +1,1 @@
-Optimize database queries
+Fix typo in README
