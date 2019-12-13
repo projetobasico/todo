@@ -1,1 +1,1 @@
-Fix CSS layout issue
+Improve logging for debugging
