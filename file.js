@@ -1,1 +1,1 @@
-Add unit tests for payment service
+Update UI for better mobile support
