@@ -1,1 +1,1 @@
-Update dependencies
+Refactor user authentication logic
