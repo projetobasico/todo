@@ -1,1 +1,1 @@
-Add unit tests for payment service
+Fix bug in checkout flow
