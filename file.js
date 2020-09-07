@@ -1,1 +1,1 @@
-Fix typo in README
+Improve image loading performance
