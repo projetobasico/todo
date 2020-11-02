@@ -1,1 +1,1 @@
-Update documentation
+Improve logging for debugging
