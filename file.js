@@ -1,1 +1,1 @@
-Update dependencies
+Fix typo in README
