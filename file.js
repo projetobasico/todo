@@ -1,1 +1,1 @@
-Improve logging for debugging
+Improve error handling in API
