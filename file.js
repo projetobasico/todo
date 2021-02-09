@@ -1,1 +1,1 @@
-Update documentation
+Fix typo in README
