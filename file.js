@@ -1,1 +1,1 @@
-Fix bug in checkout flow
+Improve logging for debugging
