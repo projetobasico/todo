@@ -1,1 +1,1 @@
-Fix CSS layout issue
+Improve error handling in API
