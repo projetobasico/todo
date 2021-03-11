@@ -1,1 +1,1 @@
-Fix bug in checkout flow
+Refactor user authentication logic
