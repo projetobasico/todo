@@ -1,1 +1,1 @@
-Improve logging for debugging
+Fix typo in README
