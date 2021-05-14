@@ -1,1 +1,1 @@
-Update documentation
+Add missing translations
