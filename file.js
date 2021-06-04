@@ -1,1 +1,1 @@
-Improve image loading performance
+Update UI for better mobile support
