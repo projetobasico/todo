@@ -1,1 +1,1 @@
-Refactor user authentication logic
+Update UI for better mobile support
