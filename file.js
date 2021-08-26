@@ -1,1 +1,1 @@
-Improve logging for debugging
+Refactor user authentication logic
