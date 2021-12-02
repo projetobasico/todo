@@ -1,1 +1,1 @@
-Improve logging for debugging
+Enhance form validation
