@@ -1,1 +1,1 @@
-Implement search functionality
+Add missing translations
