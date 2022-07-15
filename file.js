@@ -1,1 +1,1 @@
-Update dependencies
+Update UI for better mobile support
