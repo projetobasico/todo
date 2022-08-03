@@ -1,1 +1,1 @@
-Update UI for better mobile support
+Improve logging for debugging
