@@ -1,1 +1,1 @@
-Fix typo in README
+Update UI for better mobile support
