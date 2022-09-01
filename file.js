@@ -1,1 +1,1 @@
-Add missing translations
+Fix CSS layout issue
