@@ -1,1 +1,1 @@
-Update dependencies
+Improve logging for debugging
