@@ -1,1 +1,1 @@
-Improve logging for debugging
+Add missing translations
