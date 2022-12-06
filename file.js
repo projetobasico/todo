@@ -1,1 +1,1 @@
-Add unit tests for payment service
+Improve logging for debugging
