@@ -1,1 +1,1 @@
-Improve image loading performance
+Optimize database queries
