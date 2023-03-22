@@ -1,1 +1,1 @@
-Update dependencies
+Fix bug in checkout flow
