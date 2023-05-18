@@ -1,1 +1,1 @@
-Update documentation
+Improve image loading performance
