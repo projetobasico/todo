@@ -1,1 +1,1 @@
-Implement search functionality
+Fix bug in checkout flow
