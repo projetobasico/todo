@@ -1,1 +1,1 @@
-Implement search functionality
+Update UI for better mobile support
