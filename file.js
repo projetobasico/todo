@@ -1,1 +1,1 @@
-Fix typo in README
+Improve error handling in API
