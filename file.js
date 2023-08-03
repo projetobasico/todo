@@ -1,1 +1,1 @@
-Enhance form validation
+Fix bug in checkout flow
