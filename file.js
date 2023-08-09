@@ -1,1 +1,1 @@
-Implement search functionality
+Fix typo in README
