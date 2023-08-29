@@ -1,1 +1,1 @@
-Update UI for better mobile support
+Fix bug in checkout flow
