@@ -1,1 +1,1 @@
-Enhance form validation
+Fix typo in README
