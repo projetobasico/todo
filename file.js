@@ -1,1 +1,1 @@
-Add missing translations
+Update UI for better mobile support
