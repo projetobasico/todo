@@ -1,1 +1,1 @@
-Fix bug in checkout flow
+Improve error handling in API
