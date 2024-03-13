@@ -1,1 +1,1 @@
-Improve image loading performance
+Refactor user authentication logic
