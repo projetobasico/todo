@@ -1,1 +1,1 @@
-Improve image loading performance
+Implement search functionality
