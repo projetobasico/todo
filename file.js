@@ -1,1 +1,1 @@
-Improve error handling in API
+Add missing translations
