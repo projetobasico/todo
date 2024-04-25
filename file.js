@@ -1,1 +1,1 @@
-Update dependencies
+Add missing translations
