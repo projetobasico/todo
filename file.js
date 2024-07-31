@@ -1,1 +1,1 @@
-Improve image loading performance
+Fix CSS layout issue
