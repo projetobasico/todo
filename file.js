@@ -1,1 +1,1 @@
-Fix typo in README
+Refactor user authentication logic
