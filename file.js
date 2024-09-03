@@ -1,1 +1,1 @@
-Implement search functionality
+Refactor user authentication logic
