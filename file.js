@@ -1,1 +1,1 @@
-Update UI for better mobile support
+Improve error handling in API
