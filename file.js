@@ -1,1 +1,1 @@
-Update documentation
+Fix bug in checkout flow
