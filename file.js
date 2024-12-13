@@ -1,1 +1,1 @@
-Add missing translations
+Improve image loading performance
